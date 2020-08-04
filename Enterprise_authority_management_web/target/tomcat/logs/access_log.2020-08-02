@@ -1,0 +1,15 @@
+0:0:0:0:0:0:0:1 - - [02/Aug/2020:17:06:09 +0800] "POST /Enterprise_authority_management_web/login.do HTTP/1.1" 200 15264 http-bio-8888-exec-1 2027
+0:0:0:0:0:0:0:1 - - [02/Aug/2020:17:06:11 +0800] "GET /Enterprise_authority_management_web/product/findAll.do?page=1&pageSize=5 HTTP/1.1" 500 13291 http-bio-8888-exec-3 56
+0:0:0:0:0:0:0:1 - - [02/Aug/2020:17:07:50 +0800] "POST /Enterprise_authority_management_web/login.do HTTP/1.1" 200 15264 http-bio-8888-exec-1 973
+0:0:0:0:0:0:0:1 - - [02/Aug/2020:17:07:54 +0800] "GET /Enterprise_authority_management_web/product/findAll.do?page=1&pageSize=5 HTTP/1.1" 200 26500 http-bio-8888-exec-3 1116
+0:0:0:0:0:0:0:1 - - [02/Aug/2020:17:08:11 +0800] "GET /Enterprise_authority_management_web/user/findAll.do HTTP/1.1" 200 18752 http-bio-8888-exec-4 173
+0:0:0:0:0:0:0:1 - - [02/Aug/2020:17:08:20 +0800] "GET /Enterprise_authority_management_web/logout.do HTTP/1.1" 302 - http-bio-8888-exec-5 4
+0:0:0:0:0:0:0:1 - - [02/Aug/2020:17:08:21 +0800] "GET /Enterprise_authority_management_web/login.jsp HTTP/1.1" 200 2833 http-bio-8888-exec-6 74
+0:0:0:0:0:0:0:1 - - [02/Aug/2020:17:08:24 +0800] "POST /Enterprise_authority_management_web/login.do HTTP/1.1" 200 15074 http-bio-8888-exec-7 89
+0:0:0:0:0:0:0:1 - - [02/Aug/2020:17:08:27 +0800] "GET /Enterprise_authority_management_web/orders/findAll.do?page=1&pageSize=5 HTTP/1.1" 403 183 http-bio-8888-exec-8 16
+0:0:0:0:0:0:0:1 - - [02/Aug/2020:17:08:34 +0800] "POST /Enterprise_authority_management_web/login.do HTTP/1.1" 200 15074 http-bio-8888-exec-9 88
+0:0:0:0:0:0:0:1 - - [02/Aug/2020:17:08:41 +0800] "GET /Enterprise_authority_management_web/product/findAll.do?page=1&pageSize=5 HTTP/1.1" 403 183 http-bio-8888-exec-10 7
+0:0:0:0:0:0:0:1 - - [02/Aug/2020:17:08:50 +0800] "POST /Enterprise_authority_management_web/login.do HTTP/1.1" 200 15074 http-bio-8888-exec-10 85
+0:0:0:0:0:0:0:1 - - [02/Aug/2020:17:08:52 +0800] "GET /Enterprise_authority_management_web/role/findAll.do HTTP/1.1" 403 183 http-bio-8888-exec-10 8
+0:0:0:0:0:0:0:1 - - [02/Aug/2020:17:09:04 +0800] "POST /Enterprise_authority_management_web/login.do HTTP/1.1" 200 15080 http-bio-8888-exec-10 93
+0:0:0:0:0:0:0:1 - - [02/Aug/2020:17:09:10 +0800] "GET /Enterprise_authority_management_web/product/findAll.do?page=1&pageSize=5 HTTP/1.1" 200 26316 http-bio-8888-exec-10 34

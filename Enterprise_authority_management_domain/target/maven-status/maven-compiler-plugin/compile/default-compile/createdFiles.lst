@@ -1,0 +1,8 @@
+com\krismile\eam_ssm\domain\Permission.class
+com\krismile\eam_ssm\domain\Traveller.class
+com\krismile\eam_ssm\domain\Orders.class
+com\krismile\eam_ssm\domain\Product.class
+com\krismile\eam_ssm\domain\UserInfo.class
+com\krismile\eam_ssm\domain\Member.class
+com\krismile\eam_ssm\domain\Role.class
+com\krismile\eam_ssm\domain\SysLog.class
